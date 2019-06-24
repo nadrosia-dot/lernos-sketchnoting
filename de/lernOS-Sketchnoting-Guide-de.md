@@ -1135,9 +1135,14 @@ Warum denken so viele Menschen, dass sie nicht zeichnen könnn? Wo und wann habe
 
 **Brandy Agerbeck - The graphic facilitator’s field guide/Der Wegweiser für den Graphic Facilitator** - Wie Sie mit Zuhören, Denken und Zeichnen Bedeutung schaffen. Bezieht sich auf Graphic Facilitatation, Graphic Recording, Visueller Moderation / dem Erstellen visueller Protokolle. (Englisch/Deutsch)
 
-**Robert Klanten, Anna Leena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops** -  Ein umfassendes Handbuch mit sehr vielen Beispielen verschiedener Graphic Recordings. (Deutsch)
+**Robert Klanten, Anna Lena Schiller, Sven Ehmann - Graphic recording: Eine Anleitung zum Illustrieren von Meetings, Konferenzen und Workshops** -  Ein umfassendes Handbuch mit sehr vielen Beispielen verschiedener Graphic Recordings. (Deutsch)
 
 **Giorgia Lupi & Stefanie Posavec - Observe, collect, draw (data visualization)** - Ein visuelles „Tagebuch“ mit vielen Anregungen, durch das Beobachten, Sammeln und Zeichnen (Visualisierung von Daten) Muster in Deinem täglichen Leben zu finden. Eine sehr anschauliche, konkrete und persönliche Einführung in / Erfahrung mit der Visualisierung von Daten. (Englisch)
+
+**Nadine Roßa – Quickstart-Sketchnotes** – Ein Übungsblock mit Input zum Thema und 50 konkreten Übungen (Deutsch)
+
+**Nadine Roßa – Sketchnotes in der Schule** – Ein Einsteigerbuch für Lehrkräfte, die das erste Mal mit Sketchnotes arbeiten wollen (Deutsch)
+
 
 ## Communities
 
@@ -1198,7 +1203,7 @@ Doug Neill - [Twitter](https://twitter.com/douglaspneill)
 
 Magalie Le Gall - [Twitter](https://twitter.com/magalielegall)
 
-Nadine Roßa - [Twitter](https://twitter.com/nadrosia)
+Nadine Roßa - [Newsletter](https://sketchnote-love.com/newsletter-anmelden-und-freebie-abholen/),[Twitter](https://twitter.com/nadrosia)
 
 Prof. Katharina Theis Bröhl - [Twitter](https://twitter.com/theiskbt)
 
